@@ -1,0 +1,8 @@
+streamlit
+langchain 
+langchain-community 
+langchain-ollama 
+langchain-pinecone 
+pinecone-client 
+python-dotenv 
+sentence-transformers
